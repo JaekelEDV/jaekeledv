@@ -6,6 +6,7 @@ I'm a freelance Sysadmin with strong security focus, Trainer and Consultant.
 I'm specialized in Microsoft Technologies - but my Linux-Foo grows stronger every day.
 Learning and teaching is what keeps me running.
 I love Powershell, Active Directory and I like to automate stuff.
+I like to look behind stuff, I wanna know what keeps these systems running and how they work.
 
 I'm currently learning Ansible and Python.
 
@@ -17,6 +18,7 @@ Ich bin selbständiger Sysadmin, Trainer und Consultant.
 Ich bin in den Microsoft-Technologien zu Hause, aber meine Linux-Kenntnisse wachsen von Tag zu Tag.
 Lernen und Unterrichten - das treibt mich an.
 Ich liebe die PowerShell, Active Directory und mag es, alles zu automatisieren.
+Ich schaue gerne hinter die Kulissen. Ich will wissen, was die Systeme am Laufen hält und wie sie ticken.
 
 Ich lerne gerade Ansible und Python.
 
