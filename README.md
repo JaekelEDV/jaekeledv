@@ -1,4 +1,4 @@
-# Oliver Jäkel - Sysadmin - MCT - Learner + Teacher
+# Oliver Jäkel - Sysadmin - Securing all the Stuff
 
 Hi,
 I'm Oliver Jäkel. I work in IT for about 25 years.
